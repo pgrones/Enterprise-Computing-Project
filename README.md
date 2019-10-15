@@ -7,6 +7,6 @@ Repository for the Enterprise Computing Project of the 5th semester
 - Comments/documentation for each method in the code
 - Try to use meaningful variable- and method-names
 - Try to stick to a style (Standard: CamelCase without _ or -; Method- and variable-names in lowercase)
-- Write tests for complex methods (no need to start the application every time)
+- Write tests for complex methods
 
 <b>Report to the team as soon as possible if deadlines can't be met</b>
