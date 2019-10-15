@@ -2,6 +2,7 @@
 Repository for the Enterprise Computing Project of the 5th semester
 
 # Basic Guidelines
+- JDK: Java 8
 - Language for documentation: English
 - Comments/documentation for each method in the code
 - Try to use meaningful variable- and method-names
