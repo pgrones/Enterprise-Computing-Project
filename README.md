@@ -7,4 +7,4 @@ Repository for the Enterprise Computing Project of the 5th semester
 - Try to use meanigful variable- and method-names
 - Try to stick to a style (Standard: CamelCase without _ or -; Method- and variable-names in lowercase)
 
-<b>- Report to the team as soon as possible if deadlines can't be met</b>
+<b>Report to the team as soon as possible if deadlines can't be met</b>
