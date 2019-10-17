@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'mvn -f /EnterpriseComputing/pom.xml -B -DskipTests clean package -e'
+        sh 'mvn -f ./EnterpriseComputing/pom.xml -B -DskipTests clean package -e'
       }
     }
   }
